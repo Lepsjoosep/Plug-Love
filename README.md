@@ -9,8 +9,11 @@ The main goal of this project is to create a **functional website for robots tha
 ## Tools used in this project
 
 -GitHub
+
 -Slack
+
 -VsCode
+
 -Figma
 
 ## Links for the project
