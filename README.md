@@ -1,5 +1,5 @@
 # Plug&Love
-# ![image](https://github.com/Lepsjoosep/ProjektB/blob/main/image.webp)
+# ![image](https://github.com/Lepsjoosep/ProjektB/blob/main/github_robot_cat_300px.png)
 
 ## The purpose of this project
 The main goal of this project is to create a **functional website for robots that want to find love and find out what other robots like etc.**
