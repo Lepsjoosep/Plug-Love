@@ -31,25 +31,25 @@ The main goal of this project is to create a **functional website for robots tha
 
 # Day 1
 
--We worked as a different team different project.
+- We worked as a different team different project.
 
--Started figma design ended up coding on the first day. 
+- Started figma design ended up coding on the first day. 
 
--Thought the younger students html css.
+- Thought the younger students html css.
 
--Finished visual design in figma.
+- Finished visual design in figma.
 
 - -----------
 
 # Day 2
 
--Split up from the team made a new team.
+- Split up from the team made a new team.
 
--Started Figma design.
+- Started Figma design.
 
--Finished Visual Figma design.
+- Finished Visual Figma design.
 
--Started Coding html css.
+- Started Coding html css.
 
 - -----------
 
