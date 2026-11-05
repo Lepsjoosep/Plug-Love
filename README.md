@@ -2,10 +2,12 @@
 # ![image](https://github.com/Lepsjoosep/ProjektB/blob/main/github_robot_cat_300px.png)
 
 ## The purpose of this project
+
 The main goal of this project is to create a **functional website for robots that want to find love and find out what other robots like etc.**
 
 
 ## Tools used in this project
+
 -GitHub
 -Slack
 -VsCode
@@ -16,6 +18,7 @@ The main goal of this project is to create a **functional website for robots tha
 
 
 ## Our team members:
+
 - Patricia Jõgi
 - Gregor Tali
 - Joosep Leps
@@ -26,17 +29,25 @@ The main goal of this project is to create a **functional website for robots tha
 # Day 1
 
 -We worked as a different team different project.
+
 -Started figma design ended up coding on the first day. 
--Thought the younger students html css. 
+
+-Thought the younger students html css.
+
 -Finished visual design in figma.
+
 - -----------
 
 # Day 2
 
 -Split up from the team made a new team.
+
 -Started Figma design.
+
 -Finished Visual Figma design.
+
 -Started Coding html css.
+
 - -----------
 
 # Day 3
