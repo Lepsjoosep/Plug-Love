@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+header img {
+    width: 150px;
+    height: auto;
+}
+header {
+    background-color: black;
+}
+h1 {
+    color: pink;
+}
