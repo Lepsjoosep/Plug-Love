@@ -87,11 +87,12 @@ The main goal of this project is to create a **functional website for robots tha
 
 **Kevin Treu**
 
-1.
+1. Õpetan järgmine kord nooremaid kursuseid.
+   
+2. Koostööd ja et peaks ära kuulama teiste arvamusi.
 
-2.
+3. Tehniline oskus mida õppisin oli html ja css.
 
-3.
  
 **Gregor Tali**
 
