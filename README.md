@@ -55,6 +55,40 @@ The main goal of this project is to create a **functional website for robots tha
 
 # Day 3
 
+- Kevin and Patricia continued coding.
+
+
+
+
+
+**TIIMI TAGASISIDE**
+
+**Küsimused:**
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+
+
+**Patricia Jõgi**
+1. 
+2. 
+3. 
+
+**Joosep Leps**
+1. 
+2. 
+3. 
+
+**Kevin Treu**
+1. 
+2. 
+3. 
+
+**Gregor Tali**
+1. 
+2. 
+3. 
+
 
 
 
