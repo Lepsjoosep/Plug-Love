@@ -1,5 +1,5 @@
 # Plug&Love
-# ![image](https://github.com/Lepsjoosep/ProjektB/blob/main/github_robot_cat_300px.png)
+# ![image](https://github.com/Lepsjoosep/ProjektB/blob/main/pics/github_robot_cat_300px.png)
 
 ## The purpose of this project
 
