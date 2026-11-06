@@ -79,11 +79,11 @@ The main goal of this project is to create a **functional website for robots tha
 
 **Joosep Leps**
 
-1.
+1. Tean kuidas paremini tiimijuhtida.
 
-2.
+2. Koostööd ja tiimitööd sai arendada ja kohtus uute väljakutsetega, mis võivad projekti jooksul tekkida.
 
-3.
+3. Sain meelde tuletada HTML ja CSSi.
 
 **Kevin Treu**
 
@@ -96,11 +96,11 @@ The main goal of this project is to create a **functional website for robots tha
  
 **Gregor Tali**
 
-1.
+1. Õppisin toetama nooremaid kursusi ja saan seda rakendada järgmises projektis.
 
-2.
+2. Sain arendada koostööd ja tiimitööd.
 
-3.
+3. Tuletasin meelde tehnilisoskusi, mis olin ära unustanud vahepeal.
 
 
 
