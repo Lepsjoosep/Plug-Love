@@ -18,7 +18,7 @@ The main goal of this project is to create a **functional website for robots tha
 
 ## Links for the project
 - [Figma](https://www.figma.com/design/2F4NZ0Qz8p9cj9mLuIDAXN/Untitled?node-id=9-2&t=uXDMxr55j1sZhtFj-0)
-
+- [Vercel](https://plugnlove.vercel.app/)
 
 ## Our team members:
 
