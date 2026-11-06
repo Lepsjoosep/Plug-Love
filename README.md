@@ -81,7 +81,7 @@ The main goal of this project is to create a **functional website for robots tha
 
 1. Tean kuidas paremini tiimijuhtida.
 
-2. Koostööd ja tiimitööd sai arendada ja kohtus uute väljakutsetega, mis võivad projekti jooksul tekkida.
+2. Koostööd ja tiimitööd sai arendada. Kohtusin ka uute väljakutsetega, mis võivad projekti jooksul tekkida. Sain ka harjutada teiste juhendamist.
 
 3. Sain meelde tuletada HTML ja CSSi.
 
