@@ -71,11 +71,11 @@ The main goal of this project is to create a **functional website for robots tha
 
 **Patricia Jõgi**
 
-1.
+1. Arendan nii, et proovin aidata nooremaid kursuseid.
 
-2.
+2. Koostööd ja et tuleks arutada asjad läbi enne.
 
-3.
+3. Tehniline oskus mis õppisin oli html ja figma.
 
 **Joosep Leps**
 
