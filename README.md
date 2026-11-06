@@ -70,24 +70,33 @@ The main goal of this project is to create a **functional website for robots tha
 
 
 **Patricia Jõgi**
-1. 
-2. 
-3. 
+1.
+
+2.
+
+3.
 
 **Joosep Leps**
-1. 
-2. 
-3. 
+1.
+
+2.
+
+3.
 
 **Kevin Treu**
-1. 
-2. 
-3. 
+1.
 
+2.
+
+3.
+ 
 **Gregor Tali**
-1. 
-2. 
-3. 
+1.
+
+2.
+
+3.
+
 
 
 
